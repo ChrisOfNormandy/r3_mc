@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "r3:shale_wall",
+        "r3:limestone_wall",
+        "r3:conglomerate_wall",
+        "r3:petrified_wood_wall"
+    ]
+}

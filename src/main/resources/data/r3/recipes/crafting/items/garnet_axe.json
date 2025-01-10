@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xx ",
+        "xs ",
+        " s "
+    ],
+    "key": {
+        "s": "minecraft:stick",
+        "x": "r3:garnet"
+    },
+    "result": {
+        "item": "r3:garnet_axe",
+        "count": 1
+    }
+}

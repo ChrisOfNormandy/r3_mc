@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "r3:shale_stairs",
+        "r3:limestone_stairs",
+        "r3:conglomerate_stairs",
+        "r3:petrified_wood_stairs"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "r3:conglomerate"
+        }
+    },
+    "result": {
+        "item": "r3:conglomerate_wall",
+        "count": 6
+    }
+}

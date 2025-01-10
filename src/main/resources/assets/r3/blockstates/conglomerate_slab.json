@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "type=bottom": {
+            "model": "r3:block/conglomerate_slab"
+        },
+        "type=top": {
+            "model": "r3:block/conglomerate_slab_top"
+        },
+        "type=double": {
+            "model": "r3:block/conglomerate"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "b  ",
+        "bb ",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "r3:conglomerate"
+        }
+    },
+    "result": {
+        "item": "r3:conglomerate_stairs",
+        "count": 4
+    }
+}

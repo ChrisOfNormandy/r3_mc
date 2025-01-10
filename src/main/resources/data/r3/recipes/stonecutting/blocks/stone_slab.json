@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "r3:stone"
+    },
+    "result": "r3:stone_slab",
+    "count": 1
+}

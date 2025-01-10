@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "r3:shale_slab",
+        "r3:limestone_slab",
+        "r3:conglomerate_slab",
+        "r3:petrified_wood_slab"
+    ]
+}

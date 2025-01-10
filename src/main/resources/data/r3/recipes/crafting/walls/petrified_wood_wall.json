@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "r3:petrified_wood"
+        }
+    },
+    "result": {
+        "item": "r3:petrified_wood_wall",
+        "count": 6
+    }
+}

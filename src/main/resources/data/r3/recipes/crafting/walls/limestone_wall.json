@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "r3:limestone"
+        }
+    },
+    "result": {
+        "item": "r3:limestone_wall",
+        "count": 6
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "r3:shale"
+        }
+    },
+    "result": {
+        "item": "r3:shale_slab",
+        "count": 6
+    }
+}
